@@ -2,5 +2,8 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
+    <color name="cordotopo">#006064</color>
+    <color name="corfundo">#00BCD4</color>
+    <color name="cormenu">#B2EBF2</color>
     <color name="colorAccent">#FF4081</color>
 </resources>
